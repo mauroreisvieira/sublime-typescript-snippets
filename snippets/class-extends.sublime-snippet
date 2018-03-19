@@ -1,9 +1,10 @@
 <snippet>
     <content><![CDATA[
-class ${1:class_name} {
-    constructor(${3:parameters}) {
+class ${1:class_name} extends ${2:extends_class_name} {
+    constructor(${3:public} ${4:name}: ${5:string}) {
         super();
-        ${4: // Content}
+
+        ${6:// Content}
     }
 }
 ]]></content>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-for (let i = 0; let i <= ${1:length}; i++){
+for (let i = 0; let i <= ${1:length}; i++) {
     ${2:// TODO: Implement for loop}
 }
 ]]></content>

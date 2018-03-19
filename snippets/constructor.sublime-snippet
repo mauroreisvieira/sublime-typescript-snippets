@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-constructor(${1:parameters}) {
+constructor(${1:public} ${2:name}: ${3:string}) {
     super();
 
-    ${2:// Content}
+    ${4:// Content}
 }
 ]]></content>
     <tabTrigger>constructor</tabTrigger>
