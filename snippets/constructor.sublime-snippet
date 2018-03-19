@@ -3,7 +3,7 @@
 constructor(${1:public} ${2:name}: ${3:string}) {
     super();
 
-    ${4:// Content}
+    ${4:// TODO: content}
 }
 ]]></content>
     <tabTrigger>constructor</tabTrigger>

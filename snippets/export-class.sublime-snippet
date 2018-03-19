@@ -1,14 +1,14 @@
 <snippet>
     <content><![CDATA[
-extends class ${1:class_name} {
+export class ${1:class_name} {
     constructor(${2:public} ${3:name}: ${4:string}) {
         super();
 
-        ${5:// Content}
+        ${5:// TODO: content}
     }
 }
 ]]></content>
-    <tabTrigger>extends-class</tabTrigger>
+    <tabTrigger>export-class</tabTrigger>
     <scope>source.ts</scope>
-    <description>extends class</description>
+    <description>export class</description>
 </snippet>

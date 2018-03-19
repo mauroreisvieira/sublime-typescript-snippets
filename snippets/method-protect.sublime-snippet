@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 protected ${1:method}(): ${2:number} {
-    ${4: // Content}
+    ${4: // TODO: content}
     return ${3: value};
 }
 ]]></content>

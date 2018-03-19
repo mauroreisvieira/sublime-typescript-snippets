@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import { ${1:class_name} as ${2:alias} } from "./${1:class_name}";
+]]></content>
+    <tabTrigger>import</tabTrigger>
+    <scope>source.ts</scope>
+    <description>import class</description>
+</snippet>

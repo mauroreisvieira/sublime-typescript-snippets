@@ -4,7 +4,7 @@ class ${1:class_name} implements ${2:interface_name} {
     constructor(${3:public} ${4:name}: ${5:string}) {
         super();
 
-        ${6:// Content}
+        ${6:// TODO: content}
     }
 }
 ]]></content>

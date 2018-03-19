@@ -4,7 +4,7 @@ class ${1:class_name} {
     constructor(${2:public} ${3:name}: ${4:string}) {
         super();
 
-        ${5:// Content}
+        ${5:// TODO: content}
     }
 }
 ]]></content>
