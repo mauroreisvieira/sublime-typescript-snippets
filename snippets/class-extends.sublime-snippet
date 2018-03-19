@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+class ${1:class_name} {
+    constructor(${3:parameters}) {
+        super();
+        ${4: // Content}
+    }
+}
+]]></content>
+    <tabTrigger>class</tabTrigger>
+    <scope>source.ts</scope>
+    <description>class</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+interface ${1:interface_name} extend ${2:other_interfaces}{
+    ${3:// methods}
+}
+]]></content>
+    <tabTrigger>interface</tabTrigger>
+    <scope>source.ts</scope>
+    <description>interface</description>
+</snippet>

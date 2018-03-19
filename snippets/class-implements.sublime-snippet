@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+class ${1:class_name} implements ${2:interface_name} {
+    constructor(${3:parameters}) {
+        super();
+        ${4:// Content}
+    }
+}
+]]></content>
+    <tabTrigger>class-implements</tabTrigger>
+    <scope>source.ts</scope>
+    <description>class implements</description>
+</snippet>
