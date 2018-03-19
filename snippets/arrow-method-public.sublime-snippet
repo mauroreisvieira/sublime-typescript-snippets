@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+public ${1:method} = () => {
+    ${2: // TODO: content}
+}
+]]></content>
+    <tabTrigger>public-arrow-method</tabTrigger>
+    <scope>source.ts</scope>
+    <description>public arrow method</description>
+</snippet>

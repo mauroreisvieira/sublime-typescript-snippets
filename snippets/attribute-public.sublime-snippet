@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-protected ${1:name}: ${2:type};
+public ${1:name}: ${2:type};
 ]]></content>
-    <tabTrigger>protected-attribute</tabTrigger>
+    <tabTrigger>public-attribute</tabTrigger>
     <scope>source.ts</scope>
-    <description>protected attribute</description>
+    <description>public attribute</description>
 </snippet>
