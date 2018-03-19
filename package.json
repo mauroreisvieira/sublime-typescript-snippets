@@ -1,0 +1,19 @@
+{
+  "author": "Mauro Reis Vieira <mauroreisvieira@gmail.com>",
+  "name": "typescript-sublime-snippets",
+  "displayName": "Typescript Sublime Snippets",
+  "description": "Snippets to help you in the development of projects.",
+  "icon": "assets/typescript-logo.png",
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": "https://github.com/maurovieirareis/sublime-typescript-snippets",
+  "bugs": {
+    "url": "https://github.com/maurovieirareis/sublime-typescript-snippets/issues"
+  },
+  "keywords": [
+    "Typescript",
+    "Typescript Snippets",
+    "Sublime Text"
+  ],
+  "categories": ["Snippets"]
+}
