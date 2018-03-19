@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 interface ${1:interface_name} extend ${2:other_interfaces} {
-    ${3:// TODO: methods}
+    ${3:first}: ${4:string};
 }
 ]]></content>
     <tabTrigger>interface-extend</tabTrigger>
