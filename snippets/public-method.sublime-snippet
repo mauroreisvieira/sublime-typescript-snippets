@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+public ${1:method}(): ${2:number} {
+    ${4: // Content}
+    return ${3: value};
+}
+]]></content>
+    <tabTrigger>public-method</tabTrigger>
+    <scope>source.ts</scope>
+    <description>public method</description>
+</snippet>

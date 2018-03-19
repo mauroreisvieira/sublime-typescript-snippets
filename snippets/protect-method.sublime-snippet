@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+protected ${1:method}(): ${2:number} {
+    ${4: // Content}
+    return ${3: value};
+}
+]]></content>
+    <tabTrigger>protected-method</tabTrigger>
+    <scope>source.ts</scope>
+    <description>protected method</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+for (let i = 0; let i <= ${1:length}; i++){
+    ${2:// TODO: Implement for loop}
+}
+]]></content>
+    <tabTrigger>for-length</tabTrigger>
+    <scope>source.ts</scope>
+    <description>for iterator </description>
+</snippet>

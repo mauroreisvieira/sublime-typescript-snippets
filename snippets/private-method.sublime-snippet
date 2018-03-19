@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+private ${1:method}(): ${2:number} {
+    ${4: // Content}
+    return ${3: value};
+}
+]]></content>
+    <tabTrigger>private-method</tabTrigger>
+    <scope>source.ts</scope>
+    <description>private method</description>
+</snippet>

@@ -9,17 +9,25 @@ This repository was built to help developers in their day-to-day development of 
 
 ## Installation
 
+**With Package Control:** _(NOT AVAILABLE YET)_
 1. Open Package Control - (Ctrl or ⌘) + ⇧ + P
 2. Type `Typescript Snippets` and press Enter
 3. Ready to use 🎉
+
+**Manually:**
+1. Download latest release and unzip. it into your Packages folder
+2. Go to Sublime Text → Preferences → Browse Packages
+3. Move folder to inside, start using...
 
 ## Snippets
 
 ### Typescript
 
-| Snippet | Purpose |
+| Snippet | Description |
 | --- | --- |
-| `tbase` | Single file component base |
+| `private-method` | method private |
+| `public-method` | method public |
+| `protected-method` | method protected |
 
 
 ## License
