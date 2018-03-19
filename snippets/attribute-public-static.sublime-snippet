@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+protected static ${1:name}: ${2:type};
+]]></content>
+    <tabTrigger>protected-static-attribute</tabTrigger>
+    <scope>source.ts</scope>
+    <description>protected static attribute</description>
+</snippet>

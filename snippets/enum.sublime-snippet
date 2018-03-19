@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+enum ${1:name} {
+    ${2:variable} = ${3:value}
+}
+]]></content>
+    <tabTrigger>enum</tabTrigger>
+    <scope>source.ts</scope>
+    <description>enum</description>
+</snippet>

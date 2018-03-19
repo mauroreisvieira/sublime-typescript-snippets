@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+private static ${1:name}: ${2:type};
+]]></content>
+    <tabTrigger>private-static-attribute</tabTrigger>
+    <scope>source.ts</scope>
+    <description>private static attribute</description>
+</snippet>
