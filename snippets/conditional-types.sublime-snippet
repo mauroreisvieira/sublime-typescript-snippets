@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+type ${1:Foo} = {2:Dog} extends {3:Animal} ? {4:number} : {5:string};
+]]></content>
+    <tabTrigger>conditional-types</tabTrigger>
+    <scope>source.ts</scope>
+    <description>conditional types</description>
+</snippet>
