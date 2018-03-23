@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+this.${1:name} = [ ...this.${1:name}, ...data.${1:name}];
+]]></content>
+    <tabTrigger>spread-operator</tabTrigger>
+    <scope>source.ts</scope>
+    <description>spread operator</description>
+</snippet>

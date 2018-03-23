@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+if (${1:value} in ${2:variable}) {
+    ${3:// TODO: Implement for loop}
+}
+]]></content>
+    <tabTrigger>if-in</tabTrigger>
+    <scope>source.ts</scope>
+    <description>in operator</description>
+</snippet>
