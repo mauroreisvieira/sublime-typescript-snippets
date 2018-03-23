@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+get ${1:property_name}(): ${2:return_type} {
+    // return something;
+}
+]]></content>
+    <tabTrigger>getter</tabTrigger>
+    <tabTrigger>import</tabTrigger>
+    <scope>source.ts</scope>
+    <description>getter</description>
+</snippet>

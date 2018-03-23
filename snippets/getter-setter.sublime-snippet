@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+get ${1:property_name}(): ${2:return_type} {
+    // return something;
+}
+set ${1:property_name}(models: ${2:var_type}) {
+    // Content
+}
+]]></content>
+    <tabTrigger>getter setter</tabTrigger>
+    <tabTrigger>import</tabTrigger>
+    <scope>source.ts</scope>
+    <description>getter and setter</description>
+</snippet>
