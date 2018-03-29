@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+type ${1:Foo} = TypeName<string | (() => void)>;  // "string" | "function"
+]]></content>
+    <tabTrigger>distributive-conditional-types</tabTrigger>
+    <scope>source.ts</scope>
+    <description>distributive conditional types</description>
+</snippet>
