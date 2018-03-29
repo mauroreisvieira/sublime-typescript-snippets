@@ -48,9 +48,48 @@ This repository was built to help developers in their day-to-day development of 
 
 | Snippet | Description |
 | --- | --- |
+| `constructor` | constructor |
+| `class` | class |
 | `class-extends` | extend class |
 | `class-implements` | class implements |
+| `export-class` | export class |
+| `export-class-extends` | export class extends |
+| `export-class-implements` | export class implements |
 
+### Interface
+
+| Snippet | Description |
+| --- | --- |
+| `interface` | interface |
+| `interface-extend` | interface extend |
+
+
+### Iterator
+
+| Snippet | Description |
+| --- | --- |
+| `for-in` | for an array does not iterate over the array items |
+| `for-length` | for length |
+| `for-of` | iterates over the array correctly logging out the members as expected |
+
+### Getter & Setter
+
+| Snippet | Description |
+| --- | --- |
+| `getter` | getter |
+| `setter` | setter |
+| `getter-setter` | getter and setter |
+
+### Other
+
+| Snippet | Description |
+| --- | --- |
+| `enum` | enum |
+| `conditional-types` | conditional types |
+| `if-in` | check value inside variable |
+| `spread-operator` | spread operator |
+| `instanceof` | instanceof |
+| `import` | import |
 
 ## License
 

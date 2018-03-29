@@ -7,7 +7,7 @@ set ${1:property_name}(models: ${2:var_type}) {
     // Content
 }
 ]]></content>
-    <tabTrigger>getter setter</tabTrigger>
+    <tabTrigger>getter-setter</tabTrigger>
     <tabTrigger>import</tabTrigger>
     <scope>source.ts</scope>
     <description>getter and setter</description>
