@@ -86,8 +86,8 @@ This repository was built to help developers in their day-to-day development of 
 | `enum` | enum |
 | `conditional-types` | conditional types |
 | `if-in` | check value inside variable |
+| `if-instanceof` | instanceof |
 | `spread-operator` | spread operator |
-| `instanceof` | instanceof |
 | `import` | import |
 
 ## License

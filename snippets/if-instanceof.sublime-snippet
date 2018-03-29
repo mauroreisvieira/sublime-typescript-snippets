@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+if (${1:x} instanceof ${2:B}) {
+    $3
+}
+]]></content>
+    <tabTrigger>if-instanceof</tabTrigger>
+    <scope>source.ts</scope>
+    <description>if instanceof</description>
+</snippet>
