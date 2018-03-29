@@ -40,7 +40,6 @@ This repository was built to help developers in their day-to-day development of 
 | `protected-arrow-method` | arrow method protected |
 | `public-arrow-method` | arrow method public |
 | `private-method` | method private |
-| `private-method` | method private |
 | `public-method` | method public |
 | `protected-method` | method protected
 
