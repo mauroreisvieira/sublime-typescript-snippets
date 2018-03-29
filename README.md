@@ -21,13 +21,35 @@ This repository was built to help developers in their day-to-day development of 
 
 ## Snippets
 
-### Typescript
+### Attribute
 
 | Snippet | Description |
 | --- | --- |
+| `private-static-attribute` | attribute static private |
+| `protected-static-attribute` | attribute static protected |
+| `public-static-attribute` | attribute static public |
+| `private-attribute` | attribute private |
+| `protected-attribute` | attribute protected |
+| `public-attribute` | attribute public |
+
+### Methods
+
+| Snippet | Description |
+| --- | --- |
+| `private-arrow-method` | arrow method private |
+| `protected-arrow-method` | arrow method protected |
+| `public-arrow-method` | arrow method public |
+| `private-method` | method private |
 | `private-method` | method private |
 | `public-method` | method public |
-| `protected-method` | method protected |
+| `protected-method` | method protected
+
+### Class
+
+| Snippet | Description |
+| --- | --- |
+| `class-extends` | extend class |
+| `class-implements` | class implements |
 
 
 ## License
