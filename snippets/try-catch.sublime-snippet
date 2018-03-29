@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+try {
+    ${1}
+}
+catch {
+    console.error("Invalid");
+}
+
+]]></content>
+    <tabTrigger>try-catch</tabTrigger>
+    <tabTrigger>import</tabTrigger>
+    <scope>source.ts</scope>
+    <description>try-catch</description>
+</snippet>
