@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+type ${1:T1} = keyof (${2:A} & ${3:B});  // "a" | "b"]]></content>
+    <tabTrigger>keyof</tabTrigger>
+    <tabTrigger>import</tabTrigger>
+    <scope>source.ts</scope>
+    <description>keyof</description>
+</snippet>

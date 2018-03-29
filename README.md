@@ -84,6 +84,7 @@ This repository was built to help developers in their day-to-day development of 
 | Snippet | Description |
 | --- | --- |
 | `enum` | enum |
+| `keyof` | applied to an intersection type is transformed to a union of keyof applied to each intersection constituent |
 | `distributive-conditional-types` | distributive conditional types |
 | `conditional-types` | conditional types |
 | `if-in` | check value inside variable |
